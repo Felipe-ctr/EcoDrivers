@@ -4,7 +4,7 @@ small {font-size: 85%;} strong {font-weight: bold;} td, td img {vertical-align: 
 body{font: 500 18px/28px 'Josefin Sans';color: #23282B;text-rendering: optimizelegibility !important;background: #FFF}
 
 *{
-	--cor1: #000;
+	--cor1: #353839;
 	 
 	scrollbar-width: auto;
 	scrollbar-color: var(--cor1) #dbe0e5;
@@ -12,7 +12,7 @@ body{font: 500 18px/28px 'Josefin Sans';color: #23282B;text-rendering: optimizel
 
 }
 	
-*::-webkit-scrollbar { width: 4px}
+*::-webkit-scrollbar { width: 2px}
 *::-webkit-scrollbar-track {background: #dbe0e5;}
 *::-webkit-scrollbar-thumb {background-color: var(--cor1);}
 
