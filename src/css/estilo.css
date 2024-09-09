@@ -1,13 +1,13 @@
 main .dobraUm{}
     main .dobraUm .centro{}
-        main .dobraUm .centro .primeiroInten{}
-            main .dobraUm .centro .primeiroInten .ladoEsquerdo{}
-                main .dobraUm .centro .primeiroInten .ladoEsquerdo p{}
-            main .dobraUm .centro .primeiroInten .ladoDireito{}
-                main .dobraUm .centro .primeiroInten .ladoDireito figure{}
-                    main .dobraUm .centro .primeiroInten .ladoDireito figure img{}
-            main .dobraUm .centro .segundoInten{}
-                main .dobraUm .centro .segundoInten .ladoEsquerdo{}
-                    main .dobraUm .centro .segundoInten .ladoEsquerdo p{}
-                    main .dobraUm .centro .segundoInten .ladoDireito figure{}
-                        main .dobraUm .centro .segundoInten .ladoDireito figure img{}
+        main .dobraUm .centro .primeiroIten{}
+            main .dobraUm .centro .primeiroIten .ladoEsquerdo{}
+                main .dobraUm .centro .primeiroIten .ladoEsquerdo p{}
+            main .dobraUm .centro .primeiroIten .ladoDireito{}
+                main .dobraUm .centro .primeiroIten .ladoDireito figure{}
+                    main .dobraUm .centro .primeiroIten .ladoDireito figure img{}
+            main .dobraUm .centro .segundoIten{}
+                main .dobraUm .centro .segundoIten .ladoEsquerdo{}
+                    main .dobraUm .centro .segundoIten .ladoEsquerdo p{}
+                    main .dobraUm .centro .segundoIten .ladoDireito figure{}
+                        main .dobraUm .centro .segundoIten .ladoDireito figure img{}
