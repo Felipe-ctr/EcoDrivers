@@ -1,0 +1,13 @@
+main .dobraUm{}
+    main .dobraUm .centro{}
+        main .dobraUm .centro .primeiroInten{}
+            main .dobraUm .centro .primeiroInten .ladoEsquerdo{}
+                main .dobraUm .centro .primeiroInten .ladoEsquerdo p{}
+            main .dobraUm .centro .primeiroInten .ladoDireito{}
+                main .dobraUm .centro .primeiroInten .ladoDireito figure{}
+                    main .dobraUm .centro .primeiroInten .ladoDireito figure img{}
+            main .dobraUm .centro .segundoInten{}
+                main .dobraUm .centro .segundoInten .ladoEsquerdo{}
+                    main .dobraUm .centro .segundoInten .ladoEsquerdo p{}
+                    main .dobraUm .centro .segundoInten .ladoDireito figure{}
+                        main .dobraUm .centro .segundoInten .ladoDireito figure img{}
